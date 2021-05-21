@@ -1,6 +1,8 @@
 # dotfiles
 http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html
+
 http://farseerfc.me/zhs/using-gnu-stow-to-manage-your-dotfiles.html
+
 使用stow来管理dotfiles。
 > GNU Stow is a symlink farm manager
 
