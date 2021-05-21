@@ -15,11 +15,17 @@ set autoindent
 ":N    Place case labels N characters from the indent of the switch().
 set cinoptions+=:0
 
+"显示隐藏字符
+set list
+"set listchars=tab:>-,trail:-
+set listchars=tab:>-
+
 "set guifont=Consolas:h13:cANSI
 set textwidth=78
 set formatoptions+=t
 set wrap
 "set lines=44 columns=125
+set colorcolumn=80
 
 set encoding=utf-8
 "fileencodings需要注意顺序，前面的字符集应该比后面的字符集大
